@@ -1,0 +1,10 @@
+{
+  "description": "Enables quick access to frequent payment options like QRIS and GoPay, streamlining digital transactions for users seeking fast, convenient payments.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
